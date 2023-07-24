@@ -1,0 +1,2 @@
+/usr/bin/ld: warning: libopencv_imgproc.so.4.2, needed by /usr/lib/x86_64-linux-gnu/libcaer.so.3.3.15, may conflict with libopencv_imgproc.so.3.2
+/usr/bin/ld: warning: libopencv_core.so.4.2, needed by /usr/lib/x86_64-linux-gnu/libcaer.so.3.3.15, may conflict with libopencv_core.so.3.2

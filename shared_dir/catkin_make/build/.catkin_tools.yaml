@@ -1,0 +1,6 @@
+devel_space: /home/autoware/shared_dir/catkin_make/devel
+install: false
+install_space: /home/autoware/shared_dir/catkin_make/install
+profile: default
+source_space: /home/autoware/shared_dir/catkin_make/src
+workspace: /home/autoware/shared_dir/catkin_make

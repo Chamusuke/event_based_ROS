@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/autoware/shared_dir/catkin_make/devel/setup.sh
