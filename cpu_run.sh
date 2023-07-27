@@ -1,6 +1,7 @@
+
 clear
-resize -s 40 130 
-cat text/nakamura.txt
+resize -s 40 110 
+cat text/chamusuke.txt
 cat cpu_run.sh
 #"Editer::  Nakamura Hayato 19X0118"
 #"2022-12 ~~~"
@@ -13,4 +14,4 @@ docker run -it --rm --name event_based \
 	--env=DISPLAY=$DISPLAY \
 	--env=USER_ID=$(id -u) \
 	--privileged --net=host \
-       	chamusuke/event_based:0.0
+       	chamusuke/event_based:55555.0
